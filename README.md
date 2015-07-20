@@ -1,9 +1,10 @@
 # test
-social network
+College Social Network
 
-This a social networking website for a college with features like quiz,profiles,attendance register,notices,forums and book recommender system
+This a social networking website for a college with features like quiz,profiles,attendance register,notices,forums and book recommender system made using collaberative filtering
 
-This project is created using PHP/MYSQL
+This project is created using PHP/MYSQL,HTML5,CSS,JS,JQuery and tested on WAMP server
+
 
 To use this project 
 1.Setup the database: 
